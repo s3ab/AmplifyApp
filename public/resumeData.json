@@ -1,0 +1,149 @@
+{
+    "main": {
+        "name": "S3aB",
+        "description": "I am a web developer and coder extrodinare. I use my diverse skill set to overcome challenges presented by the unique projects I complete",
+        "image": "profilepic.jpg",
+        "bio": "I started my software development career in C++, but later moved to React. Then I mastered the MEAN stack by creating various REST APIs. With this knowledge of the Software Developement Lifecycle I created my own software freelancing business. I am proficient in SQL and Javascript and currently learning blockchain technology. I am a quick study, a hardworker and can adapt to any system or situation. Please do not contact me with unsolicited offers. If you need IT help or custom software for your business, feel free to email me.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "",
+        "phone": "555-555-5555",
+        "github": "https://github.com/s3ab/",
+        "project": "https://github.com/s3ab/AmplifyApp",
+        "address": {
+            "street": "(Your Street)",
+            "city": "(Your City)",
+            "state": "(Your State)",
+            "zip": "(Your Zip/Postal Code)"
+        },
+        "website": "",
+        "resumedownload": "",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/s3ab/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://github.com/s3ab/",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://github.com/s3ab/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://github.com/s3ab/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/s3ab/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+        {
+            "school": "Javascript",
+            "degree": "ReactJS, AngularJS, NodeJS",
+            "graduated": "4 years",
+            "description": ""
+        },
+        {
+            "school": "SQL",
+            "degree": "NoSQL, MySQL, MongoDB",
+            "graduated": "2 years",
+            "description": ""
+        },
+        {
+            "school": "C++",
+            "degree": "Legacy systems, Microcontrollers",
+            "graduated": "1 year",
+            "description": ""
+        }
+    ],
+    "work": [
+        {
+            "company": "System Maker",
+            "title": "Online dashboard for business management and layout creation",
+            "years": "March 2018 - Present",
+            "description": "Business management tool that utilizes custom software to save, load and edit customer information, orders, and project tracking. Uses the LAMP stack, Linux, PHP, MySQL and Javascript"
+        },
+        {
+            "company": "Black & White Drift Racer",
+            "title": "Racing Game",
+            "years": "March 2022",
+            "description": "A webGL racing video game made with only two colors. Dynamic force calculations for friction and acceleration were utilized inside of Unity to make this online drifting game."
+        },
+        {
+            "company": "Lost in Place",
+            "title": "Rougelite Web Video Game",
+            "years": "February 2022",
+            "description": "A small video game created in PICO-8. Using a modified version of the LUA programming language I was able to create random map generation, enemy AI and movement mechanics, a combat system and various enemies, all within 72 hours."
+        }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"65%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Linux",
+        "level":"50%"
+      },
+      {
+        "name": "C++",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+        {
+            "title": "Coming Soon",
+            "category": "TBA",
+            "image": "02.jpg",
+            "url": ""
+        },
+        {
+            "title": "Coming Soon",
+            "category": "TBA",
+            "image": "03.jpg",
+            "url": ""
+        },
+        {
+            "title": "Coming Soon",
+            "category": "TBA",
+            "image": "01.jpg",
+            "url": ""
+        },
+        {
+            "title": "Coming Soon",
+            "category": "TBA",
+            "image": "05.jpg",
+            "url": ""
+        }
+    ]
+  }
+}
